@@ -16,6 +16,9 @@
 
 ### This project aims to understand how the two different customers (member and casual riders) uses bike differently. At the end of this analyis, it will help to uncover patterns, trends which will eventually help in converting casual riders to member riders for more profitability.
 
+[cyclistic dashboard1.pdf](https://github.com/user-attachments/files/15789238/cyclistic.dashboard1.pdf)
+
+
 ## Data Sources
 
 ### The data was gotten from Coursera Capstone Project. The data set was downloaded as a zip file before being extracted and stored as a csv file.
